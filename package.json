@@ -1,0 +1,25 @@
+{
+  "name": "plugnplay",
+  "version": "1.0.0",
+  "description": "Plug and Play rate limter for NodeJS Services 🤚",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlameerAshraf/PlugNPlay-NodeJS-Rate-Limiter.git"
+  },
+  "keywords": [
+    "ratelimiting"
+  ],
+  "author": "Alameer Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlameerAshraf/PlugNPlay-NodeJS-Rate-Limiter/issues"
+  },
+  "homepage": "https://github.com/AlameerAshraf/PlugNPlay-NodeJS-Rate-Limiter#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
