@@ -1,2 +1,2 @@
-# PlugPlay-Rate-Limiter-For-NodeJS
-Plug and Play Rate Limiter for NodeJS! 
+# 2PRL ⛔
+ Plug and Play rate limter for NodeJS Services 🤚
