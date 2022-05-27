@@ -4,7 +4,8 @@
   "description": "Plug and Play rate limter for NodeJS Services 🤚",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,12 @@
   "bugs": {
     "url": "https://github.com/AlameerAshraf/PlugNPlay-NodeJS-Rate-Limiter/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/AlameerAshraf/PlugNPlay-NodeJS-Rate-Limiter#readme",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "redis": "^4.1.0"
   }
 }
